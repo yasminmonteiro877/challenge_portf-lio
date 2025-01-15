@@ -1,0 +1,43 @@
+/* ------------------------------ Responsividade ----------------------------------*/
+
+/* Tabletes e telas maiores */
+@media (min-width: 768px) and (max-width: 1199px) {
+    html, body {
+        overflow-x: hidden; /* Previne overflow horizontal */
+    }
+    /* MENU(cabeçalho) */
+    .cabecalho {
+        padding: 16px 32px;
+    }
+    .navegacao__lista li:not(:nth-child(6)) {
+        display: none;
+    }
+    .navegacao__elemento a {
+        color: #464646;
+        font-size: 1rem;
+        font-weight: 700;
+    }
+
+    /* SEÇÃO APRESENTAÇÃO */
+    .apresentacao {
+        padding: 32px; 
+        gap: auto;
+    }
+
+    .apresentacao__foto {
+        width: 146px;
+        height: auto;
+    }
+    
+    .apresentacao__conteiner {
+        gap: 8px;
+    }
+
+    .apresentacao__titulo {
+        font-size: 1.375rem;
+    }
+
+    .apresentacao__subtitulo {
+        font-size: 1rem;
+    }    
+}
