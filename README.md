@@ -7,6 +7,6 @@ Página desenvolvida com o objetivo de apresentar quem eu sou, meus hobbies, hab
 - CSS3
 - JAVASCRIPT
 
-**Acesso ao código do projeto:** 
+**Acesso ao código do projeto:** [Meu Portfólio](https://github.com/yasminmonteiro877/challenge_portf-lio)
 
-**Acesso a página web:** [Meu fortfólio](https://challenge-portf-lio-dusky.vercel.app/)
+**Acesso a página web:** [Meu Portfólio](https://challenge-portf-lio-dusky.vercel.app/)
